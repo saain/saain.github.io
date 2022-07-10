@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A New Post
 ![ask]({{site.baseurl}}/_posts/asklogo.png)
