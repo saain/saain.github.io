@@ -61,5 +61,3 @@ One of the many things that makes data analytics so exciting is that the problem
 
 Credits: https://www.coursera.org/learn/foundations-data/supplement/nhC19/case-study-new-data-perspectives
 
-(http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
