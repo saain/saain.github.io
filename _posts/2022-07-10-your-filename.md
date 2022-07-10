@@ -2,7 +2,7 @@
 published: true
 ---
 ## A New Post
-![ask]({{site.baseurl}}/_posts/asklogo.png)
+
 First up, the analysts needed to define what the project would look like and what would qualify as a successful result. So, to determine these things, they asked effective questions and collaborated with leaders and managers who were interested in the outcome of their people analysis. These were the kinds of questions they asked:
 
 What do you think new employees need to learn to be successful in their first year on the job? 
