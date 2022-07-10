@@ -15,5 +15,6 @@ By what percentage would you like employee retention to increase in the next fis
 
 ![]({{site.baseurl}}/images/resizesun.png)
 
+![ask]({{site.baseurl}}/images/asklogo1.png)
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
