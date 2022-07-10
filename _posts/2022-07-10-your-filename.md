@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## A New Post
+## First Case Study
 
 ![My Unicorn](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Nxf_nX4JSJyX_51-CQic-A_9153cb6c7f9e4f6486ca5b392425e8f1_DA_C1M1L2R1_A.png?expiry=1657584000000&hmac=cOxisfF8EEQp-Nx3Z7X5T7eQJI2M68F4pJ3qYQeZdk8)
 
@@ -59,5 +59,5 @@ Is people analytics right for you?
 
 One of the many things that makes data analytics so exciting is that the problems are always different, the solutions need creativity, and the impact on others can be great — even life-changing or life-saving. As a data analyst, you can be part of these efforts. Maybe you’re even inspired to learn more about the field of people analytics. If so, consider learning more about this field and adding that research to your data analytics journal. You never know: One day soon, you could be helping a company create an amazing work environment for you and your colleagues!
 
+Credits: https://www.coursera.org/learn/foundations-data/supplement/nhC19/case-study-new-data-perspectives
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
