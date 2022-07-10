@@ -15,7 +15,6 @@ By what percentage would you like employee retention to increase in the next fis
 
 ![]({{site.baseurl}}/images/resizesun.png)
 
-![]({{site.baseurl}}/images/asklogo1.png)
 
 ![]({{site.baseurl}}/images/kirill-pershin-9gIyQwf0ogw-unsplash.jpg)
 
