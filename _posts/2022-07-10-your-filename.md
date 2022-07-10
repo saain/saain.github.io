@@ -9,7 +9,9 @@ published: true
 
 ![My Unicorn](/_posts/asklogo.png)
 
-images/2022-07-10-your-filename.png
+
+![]({{site.baseurl}}/https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Nxf_nX4JSJyX_51-CQic-A_9153cb6c7f9e4f6486ca5b392425e8f1_DA_C1M1L2R1_A.png?expiry=1657584000000&hmac=cOxisfF8EEQp-Nx3Z7X5T7eQJI2M68F4pJ3qYQeZdk8)
+
 
 First up, the analysts needed to define what the project would look like and what would qualify as a successful result. So, to determine these things, they asked effective questions and collaborated with leaders and managers who were interested in the outcome of their people analysis. These were the kinds of questions they asked:
 
