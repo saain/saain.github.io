@@ -13,7 +13,6 @@ Do you believe managers with higher retention rates offer new employees somethin
 What do you suspect is a leading cause of dissatisfaction among new employees?
 By what percentage would you like employee retention to increase in the next fiscal year?
 
-![]({{site.baseurl}}/images/2022-07-10-your-filename.png)
 
 ![]({{site.baseurl}}/images/resizesun.png)
 
