@@ -7,7 +7,7 @@ published: true
 
 ![My Unicorn](/images/resizesun.png)
 
-![My Unicorn](/images/2022-07-10-your-filename.png)
+![My Unicorn](/_posts/asklogo.png)
 
 images/2022-07-10-your-filename.png
 
