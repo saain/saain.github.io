@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## The six steps of the data analysis proces
 
